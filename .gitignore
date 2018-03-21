@@ -3,4 +3,5 @@ __pycache__
 *.csv
 *.vec
 *.hdf5
-
+*.bcolz
+*.txt
